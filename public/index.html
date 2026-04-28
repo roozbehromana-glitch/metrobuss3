@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bucharest Metro Resilience</title>
+  <link rel="stylesheet" href="/css/styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+</head>
+<body>
+  <div class="layout">
+    <aside class="sidebar">
+      <h1>Metro Resilience</h1>
+      <nav>
+        <button data-section="dashboard">Dashboard</button>
+        <button data-section="scenario">Scenario Input</button>
+        <button data-section="network">Network View</button>
+        <button data-section="results">Results</button>
+        <button data-section="recommendation">Recommendation</button>
+        <button data-section="ai">AI Diagram</button>
+      </nav>
+    </aside>
+
+    <main class="main">
+      <section id="dashboard" class="panel active">
+        <h2>Dashboard</h2>
+        <div id="kpis" class="kpis"></div>
+        <canvas id="resilienceCurve"></canvas>
+      </section>
+
+      <section id="scenario" class="panel">
+        <h2>Scenario Input</h2>
+        <form id="scenarioForm"></form>
+      </section>
+
+      <section id="network" class="panel">
+        <h2>Bucharest Metro Network View</h2>
+        <div id="networkCanvas"></div>
+      </section>
+
+      <section id="results" class="panel">
+        <h2>Results</h2>
+        <canvas id="indicatorChart"></canvas>
+        <canvas id="strategyChart"></canvas>
+        <canvas id="fleetChart"></canvas>
+      </section>
+
+      <section id="recommendation" class="panel">
+        <h2>Recommendation</h2>
+        <div id="recommendationPanel"></div>
+      </section>
+
+      <section id="ai" class="panel">
+        <h2>AI Diagram</h2>
+        <button id="generateDiagram">Generate Diagram</button>
+        <p id="aiStatus"></p>
+        <img id="aiImage" alt="AI generated scenario diagram" />
+      </section>
+    </main>
+  </div>
+
+  <script type="module" src="/js/app.js"></script>
+</body>
+</html>

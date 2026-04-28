@@ -1,0 +1,1118 @@
+{
+  "metadata": {
+    "networkName": "Bucharest Metro",
+    "operator": "Metrorex",
+    "lines": [
+      "M1",
+      "M2",
+      "M3",
+      "M4",
+      "M5"
+    ],
+    "editableByUser": false
+  },
+  "nodes": [
+    {
+      "id": "dristor_2",
+      "name": "Dristor 2",
+      "lines": [
+        "M1",
+        "M3"
+      ],
+      "isInterchange": true,
+      "x": 82,
+      "y": 62,
+      "demandWeight": 1.3,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "mihai_bravu",
+      "name": "Mihai Bravu",
+      "lines": [
+        "M1"
+      ],
+      "isInterchange": false,
+      "x": 78,
+      "y": 57,
+      "demandWeight": 1.0,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "piata_muncii",
+      "name": "Piața Muncii",
+      "lines": [
+        "M1"
+      ],
+      "isInterchange": false,
+      "x": 73,
+      "y": 52,
+      "demandWeight": 1.0,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "iancului",
+      "name": "Iancului",
+      "lines": [
+        "M1"
+      ],
+      "isInterchange": false,
+      "x": 68,
+      "y": 47,
+      "demandWeight": 0.9,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "obor",
+      "name": "Obor",
+      "lines": [
+        "M1"
+      ],
+      "isInterchange": false,
+      "x": 62,
+      "y": 42,
+      "demandWeight": 1.0,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "stefan_cel_mare",
+      "name": "Ștefan cel Mare",
+      "lines": [
+        "M1"
+      ],
+      "isInterchange": false,
+      "x": 56,
+      "y": 37,
+      "demandWeight": 1.0,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "piata_victoriei_1",
+      "name": "Piața Victoriei 1",
+      "lines": [
+        "M1",
+        "M2"
+      ],
+      "isInterchange": true,
+      "x": 50,
+      "y": 32,
+      "demandWeight": 1.6,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "gara_de_nord_1",
+      "name": "Gara de Nord 1",
+      "lines": [
+        "M1",
+        "M4"
+      ],
+      "isInterchange": true,
+      "x": 44,
+      "y": 32,
+      "demandWeight": 1.6,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "basarab",
+      "name": "Basarab",
+      "lines": [
+        "M1",
+        "M4"
+      ],
+      "isInterchange": true,
+      "x": 38,
+      "y": 34,
+      "demandWeight": 1.4,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "crangasi",
+      "name": "Crângași",
+      "lines": [
+        "M1"
+      ],
+      "isInterchange": false,
+      "x": 32,
+      "y": 38,
+      "demandWeight": 0.9,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "petrache_poenaru",
+      "name": "Petrache Poenaru",
+      "lines": [
+        "M1"
+      ],
+      "isInterchange": false,
+      "x": 27,
+      "y": 42,
+      "demandWeight": 0.8,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "grozavesti",
+      "name": "Grozăvești",
+      "lines": [
+        "M1"
+      ],
+      "isInterchange": false,
+      "x": 23,
+      "y": 47,
+      "demandWeight": 0.9,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "eroilor",
+      "name": "Eroilor",
+      "lines": [
+        "M1",
+        "M3",
+        "M5"
+      ],
+      "isInterchange": true,
+      "x": 26,
+      "y": 54,
+      "demandWeight": 1.7,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "izvor",
+      "name": "Izvor",
+      "lines": [
+        "M1"
+      ],
+      "isInterchange": false,
+      "x": 31,
+      "y": 58,
+      "demandWeight": 1.0,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "piata_unirii_1",
+      "name": "Piața Unirii 1",
+      "lines": [
+        "M1",
+        "M3"
+      ],
+      "isInterchange": true,
+      "x": 38,
+      "y": 61,
+      "demandWeight": 1.8,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "timpuri_noi",
+      "name": "Timpuri Noi",
+      "lines": [
+        "M1"
+      ],
+      "isInterchange": false,
+      "x": 46,
+      "y": 62,
+      "demandWeight": 1.1,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "dristor_1",
+      "name": "Dristor 1",
+      "lines": [
+        "M1",
+        "M3"
+      ],
+      "isInterchange": true,
+      "x": 74,
+      "y": 62,
+      "demandWeight": 1.4,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "pipera",
+      "name": "Pipera",
+      "lines": [
+        "M2"
+      ],
+      "isInterchange": false,
+      "x": 56,
+      "y": 18,
+      "demandWeight": 1.2,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "aurel_vlaicu",
+      "name": "Aurel Vlaicu",
+      "lines": [
+        "M2"
+      ],
+      "isInterchange": false,
+      "x": 54,
+      "y": 22,
+      "demandWeight": 1.1,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "aviatorilor",
+      "name": "Aviatorilor",
+      "lines": [
+        "M2"
+      ],
+      "isInterchange": false,
+      "x": 52,
+      "y": 27,
+      "demandWeight": 1.1,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "piata_victoriei_2",
+      "name": "Piața Victoriei 2",
+      "lines": [
+        "M2",
+        "M1"
+      ],
+      "isInterchange": true,
+      "x": 50,
+      "y": 32,
+      "demandWeight": 1.6,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "piata_romana",
+      "name": "Piața Romană",
+      "lines": [
+        "M2"
+      ],
+      "isInterchange": false,
+      "x": 47,
+      "y": 38,
+      "demandWeight": 1.3,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "universitate",
+      "name": "Universitate",
+      "lines": [
+        "M2"
+      ],
+      "isInterchange": false,
+      "x": 44,
+      "y": 46,
+      "demandWeight": 1.4,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "piata_unirii_2",
+      "name": "Piața Unirii 2",
+      "lines": [
+        "M2",
+        "M1"
+      ],
+      "isInterchange": true,
+      "x": 40,
+      "y": 58,
+      "demandWeight": 1.8,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "tineretului",
+      "name": "Tineretului",
+      "lines": [
+        "M2"
+      ],
+      "isInterchange": false,
+      "x": 41,
+      "y": 66,
+      "demandWeight": 1.0,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "eroii_revolutiei",
+      "name": "Eroii Revoluției",
+      "lines": [
+        "M2"
+      ],
+      "isInterchange": false,
+      "x": 42,
+      "y": 72,
+      "demandWeight": 1.0,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "constantin_brancoveanu",
+      "name": "Constantin Brâncoveanu",
+      "lines": [
+        "M2"
+      ],
+      "isInterchange": false,
+      "x": 43,
+      "y": 78,
+      "demandWeight": 0.9,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "piata_sudului",
+      "name": "Piața Sudului",
+      "lines": [
+        "M2"
+      ],
+      "isInterchange": false,
+      "x": 44,
+      "y": 84,
+      "demandWeight": 1.2,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "aparatorii_patriei",
+      "name": "Apărătorii Patriei",
+      "lines": [
+        "M2"
+      ],
+      "isInterchange": false,
+      "x": 45,
+      "y": 89,
+      "demandWeight": 0.9,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "dimitrie_leonida",
+      "name": "Dimitrie Leonida",
+      "lines": [
+        "M2"
+      ],
+      "isInterchange": false,
+      "x": 46,
+      "y": 93,
+      "demandWeight": 0.8,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "berceni",
+      "name": "Berceni",
+      "lines": [
+        "M2"
+      ],
+      "isInterchange": false,
+      "x": 47,
+      "y": 97,
+      "demandWeight": 0.9,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "preciziei",
+      "name": "Preciziei",
+      "lines": [
+        "M3"
+      ],
+      "isInterchange": false,
+      "x": 6,
+      "y": 48,
+      "demandWeight": 0.7,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "pacii",
+      "name": "Păcii",
+      "lines": [
+        "M3"
+      ],
+      "isInterchange": false,
+      "x": 10,
+      "y": 49,
+      "demandWeight": 0.8,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "gorjului",
+      "name": "Gorjului",
+      "lines": [
+        "M3"
+      ],
+      "isInterchange": false,
+      "x": 14,
+      "y": 50,
+      "demandWeight": 0.9,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "lujerului",
+      "name": "Lujerului",
+      "lines": [
+        "M3"
+      ],
+      "isInterchange": false,
+      "x": 18,
+      "y": 51,
+      "demandWeight": 0.9,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "politehnica",
+      "name": "Politehnica",
+      "lines": [
+        "M3"
+      ],
+      "isInterchange": false,
+      "x": 22,
+      "y": 52,
+      "demandWeight": 1.0,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "nicolae_grigorescu",
+      "name": "Nicolae Grigorescu",
+      "lines": [
+        "M3",
+        "M1"
+      ],
+      "isInterchange": true,
+      "x": 66,
+      "y": 64,
+      "demandWeight": 1.3,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "costin_georgian",
+      "name": "Costin Georgian",
+      "lines": [
+        "M3"
+      ],
+      "isInterchange": false,
+      "x": 70,
+      "y": 66,
+      "demandWeight": 0.8,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "republica",
+      "name": "Republica",
+      "lines": [
+        "M3"
+      ],
+      "isInterchange": false,
+      "x": 74,
+      "y": 68,
+      "demandWeight": 0.8,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "1_decembrie_1918",
+      "name": "1 Decembrie 1918",
+      "lines": [
+        "M3"
+      ],
+      "isInterchange": false,
+      "x": 67,
+      "y": 70,
+      "demandWeight": 0.9,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "nicolae_teclu",
+      "name": "Nicolae Teclu",
+      "lines": [
+        "M3"
+      ],
+      "isInterchange": false,
+      "x": 72,
+      "y": 73,
+      "demandWeight": 0.8,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "anghel_saligny",
+      "name": "Anghel Saligny",
+      "lines": [
+        "M3"
+      ],
+      "isInterchange": false,
+      "x": 77,
+      "y": 76,
+      "demandWeight": 0.8,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "gara_de_nord_2",
+      "name": "Gara de Nord 2",
+      "lines": [
+        "M4",
+        "M1"
+      ],
+      "isInterchange": true,
+      "x": 44,
+      "y": 28,
+      "demandWeight": 1.5,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "jiului",
+      "name": "Jiului",
+      "lines": [
+        "M4"
+      ],
+      "isInterchange": false,
+      "x": 35,
+      "y": 23,
+      "demandWeight": 0.8,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "parc_bazilescu",
+      "name": "Parc Bazilescu",
+      "lines": [
+        "M4"
+      ],
+      "isInterchange": false,
+      "x": 31,
+      "y": 19,
+      "demandWeight": 0.8,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "laminorului",
+      "name": "Laminorului",
+      "lines": [
+        "M4"
+      ],
+      "isInterchange": false,
+      "x": 27,
+      "y": 15,
+      "demandWeight": 0.7,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "straulesti",
+      "name": "Străulești",
+      "lines": [
+        "M4"
+      ],
+      "isInterchange": false,
+      "x": 23,
+      "y": 11,
+      "demandWeight": 0.8,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "raul_doamnei",
+      "name": "Râul Doamnei",
+      "lines": [
+        "M5"
+      ],
+      "isInterchange": false,
+      "x": 14,
+      "y": 61,
+      "demandWeight": 0.8,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "constantin_brancusi",
+      "name": "Constantin Brâncuși",
+      "lines": [
+        "M5"
+      ],
+      "isInterchange": false,
+      "x": 17,
+      "y": 60,
+      "demandWeight": 0.8,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "romancierilor",
+      "name": "Romancierilor",
+      "lines": [
+        "M5"
+      ],
+      "isInterchange": false,
+      "x": 20,
+      "y": 59,
+      "demandWeight": 0.8,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "vale_ialomitei",
+      "name": "Valea Ialomiței",
+      "lines": [
+        "M5"
+      ],
+      "isInterchange": false,
+      "x": 14,
+      "y": 57,
+      "demandWeight": 0.7,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "academia_militara",
+      "name": "Academia Militară",
+      "lines": [
+        "M5"
+      ],
+      "isInterchange": false,
+      "x": 22,
+      "y": 57,
+      "demandWeight": 0.9,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "orizont",
+      "name": "Orizont",
+      "lines": [
+        "M5"
+      ],
+      "isInterchange": false,
+      "x": 24,
+      "y": 56,
+      "demandWeight": 0.9,
+      "surfaceBridgeFeasible": true
+    },
+    {
+      "id": "favorit",
+      "name": "Favorit",
+      "lines": [
+        "M5"
+      ],
+      "isInterchange": false,
+      "x": 25,
+      "y": 55,
+      "demandWeight": 0.9,
+      "surfaceBridgeFeasible": true
+    }
+  ],
+  "edges": [
+    {
+      "id": "m1_1",
+      "source": "dristor_2",
+      "target": "mihai_bravu",
+      "line": "M1",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m1_2",
+      "source": "mihai_bravu",
+      "target": "piata_muncii",
+      "line": "M1",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m1_3",
+      "source": "piata_muncii",
+      "target": "iancului",
+      "line": "M1",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m1_4",
+      "source": "iancului",
+      "target": "obor",
+      "line": "M1",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m1_5",
+      "source": "obor",
+      "target": "stefan_cel_mare",
+      "line": "M1",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m1_6",
+      "source": "stefan_cel_mare",
+      "target": "piata_victoriei_1",
+      "line": "M1",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m1_7",
+      "source": "piata_victoriei_1",
+      "target": "gara_de_nord_1",
+      "line": "M1",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m1_8",
+      "source": "gara_de_nord_1",
+      "target": "basarab",
+      "line": "M1",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m1_9",
+      "source": "basarab",
+      "target": "crangasi",
+      "line": "M1",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m1_10",
+      "source": "crangasi",
+      "target": "petrache_poenaru",
+      "line": "M1",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m1_11",
+      "source": "petrache_poenaru",
+      "target": "grozavesti",
+      "line": "M1",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m1_12",
+      "source": "grozavesti",
+      "target": "eroilor",
+      "line": "M1",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m1_13",
+      "source": "eroilor",
+      "target": "izvor",
+      "line": "M1",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m1_14",
+      "source": "izvor",
+      "target": "piata_unirii_1",
+      "line": "M1",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m1_15",
+      "source": "piata_unirii_1",
+      "target": "timpuri_noi",
+      "line": "M1",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m1_16",
+      "source": "timpuri_noi",
+      "target": "dristor_1",
+      "line": "M1",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m1_17",
+      "source": "dristor_1",
+      "target": "dristor_2",
+      "line": "M1",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m2_1",
+      "source": "pipera",
+      "target": "aurel_vlaicu",
+      "line": "M2",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m2_2",
+      "source": "aurel_vlaicu",
+      "target": "aviatorilor",
+      "line": "M2",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m2_3",
+      "source": "aviatorilor",
+      "target": "piata_victoriei_2",
+      "line": "M2",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m2_4",
+      "source": "piata_victoriei_2",
+      "target": "piata_romana",
+      "line": "M2",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m2_5",
+      "source": "piata_romana",
+      "target": "universitate",
+      "line": "M2",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m2_6",
+      "source": "universitate",
+      "target": "piata_unirii_2",
+      "line": "M2",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m2_7",
+      "source": "piata_unirii_2",
+      "target": "tineretului",
+      "line": "M2",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m2_8",
+      "source": "tineretului",
+      "target": "eroii_revolutiei",
+      "line": "M2",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m2_9",
+      "source": "eroii_revolutiei",
+      "target": "constantin_brancoveanu",
+      "line": "M2",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m2_10",
+      "source": "constantin_brancoveanu",
+      "target": "piata_sudului",
+      "line": "M2",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m2_11",
+      "source": "piata_sudului",
+      "target": "aparatorii_patriei",
+      "line": "M2",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m2_12",
+      "source": "aparatorii_patriei",
+      "target": "dimitrie_leonida",
+      "line": "M2",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m2_13",
+      "source": "dimitrie_leonida",
+      "target": "berceni",
+      "line": "M2",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m3_1",
+      "source": "preciziei",
+      "target": "pacii",
+      "line": "M3",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m3_2",
+      "source": "pacii",
+      "target": "gorjului",
+      "line": "M3",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m3_3",
+      "source": "gorjului",
+      "target": "lujerului",
+      "line": "M3",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m3_4",
+      "source": "lujerului",
+      "target": "politehnica",
+      "line": "M3",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m3_5",
+      "source": "politehnica",
+      "target": "eroilor",
+      "line": "M3",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m3_6",
+      "source": "eroilor",
+      "target": "piata_unirii_1",
+      "line": "M3",
+      "nominalTravelTimeMinutes": 3,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m3_7",
+      "source": "piata_unirii_1",
+      "target": "dristor_1",
+      "line": "M3",
+      "nominalTravelTimeMinutes": 3,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m3_8",
+      "source": "dristor_1",
+      "target": "nicolae_grigorescu",
+      "line": "M3",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m3_9",
+      "source": "nicolae_grigorescu",
+      "target": "costin_georgian",
+      "line": "M3",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m3_10",
+      "source": "costin_georgian",
+      "target": "republica",
+      "line": "M3",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m3_11",
+      "source": "nicolae_grigorescu",
+      "target": "1_decembrie_1918",
+      "line": "M3",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m3_12",
+      "source": "1_decembrie_1918",
+      "target": "nicolae_teclu",
+      "line": "M3",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m3_13",
+      "source": "nicolae_teclu",
+      "target": "anghel_saligny",
+      "line": "M3",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m4_1",
+      "source": "gara_de_nord_2",
+      "target": "basarab",
+      "line": "M4",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m4_2",
+      "source": "basarab",
+      "target": "jiului",
+      "line": "M4",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m4_3",
+      "source": "jiului",
+      "target": "parc_bazilescu",
+      "line": "M4",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m4_4",
+      "source": "parc_bazilescu",
+      "target": "laminorului",
+      "line": "M4",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m4_5",
+      "source": "laminorului",
+      "target": "straulesti",
+      "line": "M4",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m5_1",
+      "source": "raul_doamnei",
+      "target": "constantin_brancusi",
+      "line": "M5",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m5_2",
+      "source": "constantin_brancusi",
+      "target": "romancierilor",
+      "line": "M5",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m5_3",
+      "source": "romancierilor",
+      "target": "favorit",
+      "line": "M5",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m5_4",
+      "source": "favorit",
+      "target": "orizont",
+      "line": "M5",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m5_5",
+      "source": "orizont",
+      "target": "academia_militara",
+      "line": "M5",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m5_6",
+      "source": "academia_militara",
+      "target": "eroilor",
+      "line": "M5",
+      "nominalTravelTimeMinutes": 3,
+      "capacityWeight": 1
+    },
+    {
+      "id": "m5_7",
+      "source": "romancierilor",
+      "target": "vale_ialomitei",
+      "line": "M5",
+      "nominalTravelTimeMinutes": 2,
+      "capacityWeight": 1
+    }
+  ]
+}
